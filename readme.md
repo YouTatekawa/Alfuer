@@ -10,4 +10,4 @@ https://github.com/qmk/qmk_firmware
 
 ## Build Guide
 
-https://
+https://tijikusen.hatenablog.com/entry/buildguide_alfuer
